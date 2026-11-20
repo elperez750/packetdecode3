@@ -1,0 +1,6 @@
+#ifndef PACKETDECODE3_LIBRARY_H
+#define PACKETDECODE3_LIBRARY_H
+
+void hello(void);
+
+#endif // PACKETDECODE3_LIBRARY_H
